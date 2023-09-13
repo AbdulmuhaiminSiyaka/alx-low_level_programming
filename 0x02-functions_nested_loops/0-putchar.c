@@ -1,4 +1,5 @@
 #include "main.h"
+void  _putchar ; 
 /**
  * main - prints _putchar as a message.
  *
